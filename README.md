@@ -6,6 +6,6 @@ This app provides a platform as it allows people to find the online counterparts
 </p>
 
 <p align="left">
-  <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/1.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/5.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/6.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/7.png" hspace=20>
+  <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/5.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/6.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/7.png" hspace=20> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/7.png" hspace=20>
 </p>
 
