@@ -4,4 +4,10 @@ This app provides a platform as it allows people to find the online counterparts
 <p align="left">
   <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/1.png">
 </p>
+<p align="center">
+  <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/2.png">
+</p>
+<p align="right">
+  <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/3.png">
+</p>
 ![Image of Yaktocat](https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/1.png)
