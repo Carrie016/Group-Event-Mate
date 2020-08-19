@@ -4,6 +4,10 @@ This app provides a platform as it allows people to find the online counterparts
 <p align="left">
   <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/1.png"> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/2.png"> <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/3.png">
 </p>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/2.png)  |  ![](https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/2.png)
 <p align="center">
   <img width="200" height="400" src="https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/2.png">
 </p>
