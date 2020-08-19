@@ -1,4 +1,4 @@
 # Group-Event-Mate
 This app provides a platform as it allows people to find the online counterparts of their organizations they join in real life.   Once people are within a group in the app, they can either create a new event like hiking, playing baseball and going to a concert, or join an existing one. And once they join an event, they can have online chats with others who participate in this event, so they can get familiar with other people and get prepared in advance.   In the event page, there is also a map that will display marked places indicating the locations of these events. Therefore, events, instant messaging and maps are all integrated into this app and will be convenient to use. 
 
-![Image of Yaktocat](https://www.google.com/search?q=image&sxsrf=ALeKk032SPhxXvMI5TVnVfSotfVDcpDtPw:1597826131861&tbm=isch&source=iu&ictx=1&fir=nH5liarSz56duM%252C0JWe7yDOKrVFAM%252C_&vet=1&usg=AI4_-kTwdcaxC3EyM3cAymsAi7Y_Y1GC8Q&sa=X&ved=2ahUKEwiNhIKY7qbrAhW1PH0KHaNyASsQ9QEwAXoECAsQMA#imgrc=nH5liarSz56duM)
+![Image of Yaktocat](https://raw.githubusercontent.com/Carrie016/Group-Event-Mate/master/demo_imgs/1.png)
